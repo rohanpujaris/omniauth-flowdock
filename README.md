@@ -1,4 +1,4 @@
-# OmniAuth Flowdock Strategy
+# OmniAuth Flowdock Strategy [![Build Status](https://travis-ci.org/flowdock/omniauth-flowdock.png)](https://travis-ci.org/flowdock/omniauth-flowdock)
 
 Flowdock OAuth 2.0 Strategy for OmniAuth.
 
